@@ -31,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh22204901&show_icons=true&locale=en" alt="rishabh22204901" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh22204901&" alt="rishabh22204901" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rishabh22204901&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+
