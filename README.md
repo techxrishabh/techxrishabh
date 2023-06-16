@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm RISHABH KUMAR</h1>
 <h3 align="center">A passionate Computer Science bachelor Student</h3>
 
-<div align="center">
+<div align="left">
  <b style = {font-weight: 1000}>Visitors Count</b>
 
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/{rishabh22204901}/count.svg" /></p> 
