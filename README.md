@@ -1,7 +1,12 @@
 <h1 align="center">Hey Everyone 👋, I'm RISHABH KUMAR</h1>
 <h3 align="center">A passionate Computer Science bachelor Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh22204901&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh22204901" /> </p>
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rishabh22204901}/count.svg" /></p> 
+<br>
+</div>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
