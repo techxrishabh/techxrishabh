@@ -5,7 +5,7 @@
  <b style = {font-weight: 1000}>Visitors Count</b>
  
 
-<p align="left"><img align="center" src="https://profile-counter.glitch.me/{rishabh22204901}/count.svg" /></p> 
+<p align="left"><img align="left" src="https://profile-counter.glitch.me/{rishabh22204901}/count.svg" /></p> 
 <br>
 </div>
 
