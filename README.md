@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science bachelor Student</h3>
 
 <div align="center">
- <b style = {font-weight: 600}>Visitors Count</b>
+ <b style = {font-weight: 1000}>Visitors Count</b>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rishabh22204901}/count.svg" /></p> 
 <br>
