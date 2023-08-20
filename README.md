@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh22204901&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh22204901" /> </p>
 
-<img width="30%" align="right" src="giphy.gif"/>
+
+<img width="30%" align="right" src="https://github.com/rishabh22204901/rishabh22204901/assets/132020097/45a181c9-dd9f-45ef-83a7-a8522a6eacfc"/>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
