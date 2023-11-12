@@ -8,7 +8,8 @@
 <img width="33%" align="right" src="https://github.com/techxrishabh/techxrishabh/assets/132020097/c0888579-7aed-4d19-8626-3a8d6af7c421">
 
 <h1>About Me:</h1>
-I'm Rishabh, a computer science undergrad who is fascinated by Tech ... I love constantly exploring and learning new technologies to expand my capabilities in tech. I also enjoy keeping myself busy with some kind of physics activity to work properly so, when I am not coding you will find me doing workouts or any other physical activities.
+⚡ I'm Rishabh, a computer science undergrad who is fascinated by Tech.<br>😊 I love constantly exploring and learning new technologies to expand my capabilities in tech.<br>😊 I also enjoy keeping myself busy with some kind of physics activity to work properly so, when I am not coding you will find me doing workouts or any other physical activities.<br>😊 In my free time, I love playing games and watching anime.
+
 
 
 
