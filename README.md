@@ -8,8 +8,9 @@
 <img width="33%" align="right" src="https://github.com/techxrishabh/techxrishabh/assets/132020097/c0888579-7aed-4d19-8626-3a8d6af7c421">
 
 <h2>⭐ About Me ^_^ </h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif">
 ⚒️ I'm Rishabh, a computer science undergrad who is fascinated by Tech.<br>⚡ I love constantly exploring and learning new technologies to expand my capabilities in tech.<br>⚡ I also enjoy keeping myself updated with new trends and tech.<br> ⚡ when I am not coding you will find me doing workouts or any other physical activities.<br>⚡ In my free time, I love playing games and watching anime.<br> ⚡ Besides these things, I am always eager to help others in their tech journey. <br> ⚡ I am also a book lover. <br>⚡ I'm currently learning Javascript and React.<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif">
 
 <h2>🌐 Connect me on Socials</h2>
 
