@@ -9,6 +9,9 @@
 
 ![Github Cover Profile](https://github.com/techxrishabh/techxrishabh/assets/132020097/80a24149-f4b1-486d-94a1-f9224ab25b1e)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0161.gif" width="100%">
+
+
 ****************************************************************************************************************************************************************
 
 <h2 align="center">💻Currently on a Journey to become a great Software Engineer💻</h2>
