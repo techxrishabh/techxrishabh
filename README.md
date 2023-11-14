@@ -118,7 +118,12 @@
     </td>
     <td>
       <img  width="auto" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxrishabh&theme=blue-green&layout=compact" />
-    </td>                           
+    </td>
+    <td>
+      
+  [![GitHub Streak](https://github-readme-streak-stats-ten-omega.vercel.app?user=techxrishabh&theme=blue-green)](https://git.io/streak-stats)
+      
+  </td>
   </tr>
 </table>
 
