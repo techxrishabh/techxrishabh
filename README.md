@@ -110,7 +110,7 @@
 
 <br>
 
-<h2> My GitHub Stats</h2>
+<h2>📌 My GitHub Stats</h2>
 <table>
   <tr>
     <td>
