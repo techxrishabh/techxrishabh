@@ -107,6 +107,20 @@
 - [Conquering Responsive Layouts-certificate](https://drive.google.com/file/d/1RQXulkjk3peki4hS2e1V7wt3zEh6Tb4O/view?usp=drive_link)<br>
 - [Learning How To Learn](https://coursera.org/share/4e69e883a867ee562413c38c12562b71)
 
+<br>
+
+<h2> My GitHub Stats</h2>
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=techxrishabh&theme=blue-green&show_icons=true">
+    </td>
+    <td>
+      <img  width="auto" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxrishabh&theme=blue-green&layout=compact" />
+    </td>                           
+  </tr>
+</table>
+
   
 
 
