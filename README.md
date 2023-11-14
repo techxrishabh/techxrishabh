@@ -111,6 +111,7 @@
 <br>
 
 <h2>📌 My GitHub Stats</h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0171.gif" width="100%">
 <table>
   <tr>
     <td>
@@ -126,6 +127,8 @@
   </td>
   </tr>
 </table>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0171.gif" width="100%">
+
 
 <h2>✍️ My latest Blog Posts</h2>
 
