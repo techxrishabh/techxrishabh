@@ -101,7 +101,8 @@
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=techxrishabh&label=Profile-views&labelColor=%23f6bb40&countColor=%231d1b1c&style=plastic)
 
-  
+<img align="right" alt="Coding" width="280" src="https://github.com/techxrishabh/techxrishabh/assets/132020097/b68f2174-6f45-4b7c-8509-4f1dc1b219ee"><br> 
+
 <h2>🥇 My Certifications</h2>
 
 - [Conquering Responsive Layouts-certificate](https://drive.google.com/file/d/1RQXulkjk3peki4hS2e1V7wt3zEh6Tb4O/view?usp=drive_link)<br>
