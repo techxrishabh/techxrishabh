@@ -127,6 +127,19 @@
   </tr>
 </table>
 
+<h2>✍️ My latest Blog Posts</h2>
+
+<!-- HASHNODE BLOG - 1 -->
+
+<p align="left">
+<a href="https://techxrishabh.hashnode.dev/my-top-takeaways-from-100-days-of-coding" title="My Top Takeaways from 100 Days of Coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698145904906/dda52e95-b97c-49c9-8367-1e308b498b95.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="My Top Takeaways from 100 Days of Coding" width="250px" align="left"></a>
+<a href="https://techxrishabh.hashnode.dev/my-top-takeaways-from-100-days-of-coding" title="My Top Takeaways from 100 Days of Coding"><strong>My Top Takeaways from 100 Days of Coding</strong></a>
+<br/> This was my first 100-days-of-code-challenge which i completed... In this blog, I have shared What I Learned from Coding Every Day for 100 Days...I have also shared the problems that I faced during this challenge and tried my best to give the solution through this blog.
+  
+</p>
+<br>
+
+
   
 
 
