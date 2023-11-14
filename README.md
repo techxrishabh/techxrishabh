@@ -97,7 +97,11 @@
   </kbd>
   <br/>
   <br/>
+  <br>
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=techxrishabh&label=Profile-views&labelColor=%23f6bb40&countColor=%231d1b1c&style=plastic)
 
+  
 <h2>🥇 My Certifications</h2>
 
 - [Conquering Responsive Layouts-certificate](https://drive.google.com/file/d/1RQXulkjk3peki4hS2e1V7wt3zEh6Tb4O/view?usp=drive_link)<br>
