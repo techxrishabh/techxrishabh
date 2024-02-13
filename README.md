@@ -122,7 +122,7 @@
     </td>
     <td>
       
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techxrishabh&layout=compact&langs_count=8&theme=blue-green)
+  [![GitHub Streak](https://github-readme-streak-stats-ten-omega.vercel.app?user=techxrishabh&theme=blue-green)](https://git.io/streak-stats)
       
   </td>
   </tr>
