@@ -122,7 +122,7 @@
     </td>
     <td>
       
-  [![GitHub Streak](https://github-readme-streak-stats-ten-omega.vercel.app?user=techxrishabh&theme=blue-green)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techxrishabh&theme=blue-green&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
       
   </td>
   </tr>
