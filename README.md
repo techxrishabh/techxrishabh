@@ -118,11 +118,11 @@
         <img src="https://github-readme-stats.vercel.app/api?username=techxrishabh&theme=blue-green&show_icons=true">
     </td>
     <td>
-      <img  width="auto" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxrishabh&theme=blue-green&layout=compact" />
+      <img  width="auto" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxrishabh&theme=blue-green&layout=compact&langs_count=8" />
     </td>
     <td>
       
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techxrishabh&layout=compact&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techxrishabh&layout=compact&langs_count=8&theme=blue-green)
       
   </td>
   </tr>
